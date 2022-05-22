@@ -6,7 +6,7 @@
 
 ### 1 Karabiner-Elementsをインストール
 #### 以下URLにアクセスしインストールをする
-- https://karabiner-elements.pqrs.org/でインストールする。
+- https://karabiner-elements.pqrs.org/ でインストールする
 ---
 ### 2 「complex_modifications」ディレクトリを開く
 #### 以下コマンドで開く
